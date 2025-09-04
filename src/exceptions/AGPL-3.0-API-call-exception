@@ -1,0 +1,31 @@
+SPDX-Exception-Identifier: AdditionRef-AGPL-3.0-API-call-exception
+SPDX-Exception-Name: AGPL 3.0 API Call Exception
+SPDX-Exception-Text:
+
+  As a special exception, using the interfaces contained in the files listed in
+  `excepted.api` included in the source distribution (the “Excepted API”) shall
+  not, by itself, cause the calling code to be subject to the GNU Affero General
+  Public License v3.0.
+
+  ## For the avoidance of doubt:
+  1. The file `excepted.api` is the sole authoritative specification of which
+  source files define the Excepted API. The interfaces contained in those files
+  are the only ones covered by this exception.
+
+  2. This exception applies only to calling, compiling against, or linking
+  against the interfaces contained in the files listed in `excepted.api`.  It
+  does not apply to direct use of any other parts of the work not listed in the
+  `excepted.api` file.
+
+  3. Implementation details, including any transitive code, libraries, or
+  elements used internally to satisfy calls to the Excepted API, do not extend
+  this exception to any part of the work not listed in the `excepted.api` file.
+
+  4. Merely compiling against, linking against, or invoking the Excepted API,
+  and the fact that such actions may require the work to access or load other
+  elements, shall not by itself be considered creation of a derivative work by
+  the caller.
+
+  This exception does not grant permission to copy, modify, or distribute any
+  file except as otherwise permitted under the GNU Affero General Public License
+  v3.0.
